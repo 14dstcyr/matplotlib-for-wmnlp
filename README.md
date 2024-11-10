@@ -9,3 +9,6 @@ Each question is worth two points:
 
 * Data plotted as described by the question (1 pt)
 * Plot contains required elements (title, axis labels, axis titles, legend if required)
+
+# Answers to questions were made and charts created
+### Made some color changes to the charts for better contrast
